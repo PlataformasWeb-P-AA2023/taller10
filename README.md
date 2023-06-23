@@ -1,4 +1,4 @@
-# Taller 10 (Laboratorio) - Individual:
+# Taller 10 (Laboratorio) - Grupal:
 ## Creación de proyectos de ambiente web a través del framework Django. Usar vistas y formularios.
 
 Dadas dos entidades:
